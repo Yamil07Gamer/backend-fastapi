@@ -1,3 +1,3 @@
 # backend-fastapi
 
-Fatapi, backend de mi proyecto de poo, SG2
+Fastapi, backend de mi proyecto de poo, SG2
